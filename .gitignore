@@ -2,3 +2,5 @@
 data/azdias.csv
 data/customer.csv
 data.zip
+data/mailout_test.csv
+data/mailout_train.csv
