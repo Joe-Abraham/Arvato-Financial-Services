@@ -46,3 +46,10 @@ Hyperparameter tuning is done to XGBoost and it was giving a cross validation sc
 The model was run of a provided dataset and then submitted on Kaggle and my model performed with score 0.80596. And I grabbed 24th place in leadershipboard as on 20-09-2020 (Screenshot attached in the notebook)
 
 -----------
+
+### Libraries Used
+
+1. Sklearn
+2. XGBoost
+3. Numpy 
+4. Pandas
